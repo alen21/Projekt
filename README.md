@@ -1,1 +1,2 @@
-# Projekt
+﻿# Projekt
+Danes je lep dan.
